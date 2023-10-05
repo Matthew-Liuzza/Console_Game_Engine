@@ -1,0 +1,41 @@
+﻿  projectileMotion.cpp
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(213,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(213,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(277,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(277,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(299,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(300,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(305,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(305,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(306,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(306,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(307,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(307,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(308,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(308,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(309,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(309,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(310,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(310,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(311,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(311,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(312,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(312,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(321,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(322,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(348,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(348,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(348,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(349,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(349,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(349,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(350,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(350,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(350,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(351,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(351,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\WindowsGameEngine_abs.h(351,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\projectileMotion.cpp(59,67): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\projectileMotion.cpp(62,72): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\matth\source\repos\projectileMotion\projectileMotion\projectileMotion.cpp(82): warning C4715: 'gameExample::userUpdateBuffer': not all control paths return a value
+  projectileMotion.vcxproj -> C:\Users\matth\source\repos\projectileMotion\x64\Debug\projectileMotion.exe
