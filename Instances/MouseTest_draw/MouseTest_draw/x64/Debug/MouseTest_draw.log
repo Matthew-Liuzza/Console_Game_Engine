@@ -1,0 +1,50 @@
+﻿  MouseTest_draw.cpp
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(237,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(237,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(301,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(301,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(323,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(324,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(329,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(329,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(330,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(330,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(331,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(331,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(332,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(332,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(333,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(333,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(334,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(334,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(335,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(335,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(336,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(336,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(345,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(346,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(372,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(372,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(372,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(373,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(373,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(373,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(374,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(374,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(374,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(375,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(375,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\WindowsGameEngine_abs_1.h(375,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\MouseTest_draw.cpp(40,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\MouseTest_draw.cpp(41,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\MouseTest_draw.cpp(87,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\MouseTest_draw.cpp(87,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\MouseTest_draw.cpp(97,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\MouseTest_draw.cpp(98,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\MouseTest_draw.cpp(108,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\MouseTest_draw.cpp(108,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\MouseTest_draw.cpp(164,1): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\MouseTest_draw.cpp(173,1): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\MouseTest_draw.cpp(216,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\matth\source\repos\MouseTest_draw\MouseTest_draw\MouseTest_draw.cpp(216,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  MouseTest_draw.vcxproj -> C:\Users\matth\source\repos\MouseTest_draw\x64\Debug\MouseTest_draw.exe
